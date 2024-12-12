@@ -32,20 +32,9 @@ torch-geometric 1.7.2
 python train.py
 ```
 
-If our work is helpful to you, please cite:
-```bash
-@ARTICLE{10612252,
-  author={Meng, Tao and Zhang, Fuchen and Shou, Yuntao and Shao, Hongen and Ai, Wei and Li, Keqin},
-  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-  title={Masked Graph Learning With Recurrent Alignment for Multimodal Emotion Recognition in Conversation}, 
-  year={2024},
-  volume={32},
-  number={},
-  pages={4298-4312},
-  doi={10.1109/TASLP.2024.3434495}}
-```
+
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/MGLRA&type=Date)](https://star-history.com/#yuntaoshou/MGLRA&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=FuchenZhang/GS-MCC&type=Date)](https://star-history.com/#FuchenZhang/GS-MCC&Date)
 
