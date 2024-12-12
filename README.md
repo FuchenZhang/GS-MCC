@@ -10,7 +10,7 @@ By Ai, Wei，Zhang Fuchen, Meng Tao, Shou Yuntao, Haowen Chen, and Li Keqin. [[p
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 
-This is an official implementation of 'Masked Graph Learning With Recurrent Alignment for Multimodal Emotion Recognition in Conversation' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
+This is an official implementation of 'Revisiting Multimodal Emotion Recognition in Conversation from the Perspective of Graph Spectrum' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
 
 <div  align="center"> 
   <img src="https://github.com/FuchenZhang/GS-MCC/blob/main/archi.png.png" width=100% />
