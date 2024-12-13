@@ -5,7 +5,7 @@
 [AKGR-url]: https://github.com/yuntaoshou/MGLRA
 
 # Revisiting Multimodal Emotion Recognition in Conversation from the Perspective of Graph Spectrum
-By Ai, Wei，Zhang Fuchen, Meng Tao, Shou Yuntao, Haowen Chen, and Li Keqin. [[paper link]](https://arxiv.org/abs/2404.17862)
+By Ai Wei，Zhang Fuchen, Meng Tao, Shou Yuntao, Chen Haowen , and Li Keqin. [[paper link]](https://arxiv.org/abs/2404.17862)
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
